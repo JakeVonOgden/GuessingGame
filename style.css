@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-family: Impact;
+    font-size: 45px;
+    color: gold;
+    margin-top: 75px;
+}
+.submit{
+    color: lawngreen;
+    background-color: black;
+    font-family: Courier New;
+    font-size: 20px;
+}
+input{
+    font-size: 20px;
+    align-items: center;
+    margin-left: 50px;
+}
+label{
+    margin-left: 535px;
+    font-size: 18px;
+    color: lawngreen;
+}
+p{
+    text-align: center;
+    color: lawngreen;
+}
+button{
+    font-size: 20px;
+    color: lawngreen;
+    background-color: black;
+    font-family: Courier New;
+}
